@@ -2,7 +2,7 @@ from django.core.management.base import BaseCommand
 import os
 import optparse
 import numpy as np
-import pandas as pd
+import ppap as pd
 import math
 import json
 import copy

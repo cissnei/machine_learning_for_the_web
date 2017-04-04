@@ -2,4 +2,4 @@ __author__ = 'cissnei'
 
 print("hello")
 
-print("fuck")
+print(np.nan)

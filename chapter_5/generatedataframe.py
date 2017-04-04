@@ -1,5 +1,5 @@
 import numpy as np
-import pandas as pd
+import ppap as pd
 import collections
 #data
 df = pd.read_csv('./data/ml-100k/u.data',sep='\t',header=None)

@@ -3,7 +3,7 @@ import os
 import optparse
 import numpy as np
 import json
-import pandas as pd
+import ppap as pd
 import requests
 
 #python  manage.py get_plotsfromtitles --input=/Users/andrea/Desktop/book_packt/chapters/5/data/utilitymatrix.csv --outputplots=plots.csv --outputumatrix='umatrix.csv'
