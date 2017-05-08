@@ -24,7 +24,7 @@ ax.axis([0,102, -20,220])
 ax.set_xlabel('x',fontsize=40)
 ax.set_ylabel('y',fontsize=40)
 fig.suptitle('2 dimensional dataset',fontsize=40)
-fig.savefig('pca_data.png')
+fig.savefig('pca_data1.png')
 
 
 #calc PCA
